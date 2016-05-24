@@ -4,9 +4,9 @@ To view the source code for the library navigate to /MathematicaLib/MathematicaL
 
 To view the source code for the Application that uses the library navigate to /MathematicaLib/MathematicaLib/Calculator/main.cpp
 
-Please refer to the projects documnentation for details of the functionality of library. In summary the application provides a single function
-that fufills several purposes and behaves autonoumsly to any valid input it mainly solves mathematical equations according to the
-PEMDAS order of execution.
+Please refer to the projects documnentation for details of the functionality of library. In summary the application provides a single function that fufills several purposes and behaves autonoumsly to any valid input it mainly solves mathematical equations according to the PEMDAS order of execution.
+
+This project makes use of the googletest framework to carry out unit testing
 
 The library and application where written in C++.
 
